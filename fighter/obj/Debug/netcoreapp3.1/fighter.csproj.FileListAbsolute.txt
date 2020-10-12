@@ -1,0 +1,13 @@
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.exe
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.deps.json
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.runtimeconfig.json
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.runtimeconfig.dev.json
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.dll
+C:\NTI 2020\programmering\fighter\fighter\bin\Debug\netcoreapp3.1\fighter.pdb
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.csprojAssemblyReference.cache
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.AssemblyInfoInputs.cache
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.AssemblyInfo.cs
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.csproj.CoreCompileInputs.cache
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.dll
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.pdb
+C:\NTI 2020\programmering\fighter\fighter\obj\Debug\netcoreapp3.1\fighter.genruntimeconfig.cache
